@@ -32,7 +32,7 @@ namespace eInvoice
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Docus E-fakture", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "E-fakture", Version = "v1" });
             });
             services.RegisterCustomServices();
             services.AddRouting(options => options.LowercaseUrls = false);

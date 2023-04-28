@@ -641,37 +641,7 @@ namespace eInvoice.Infrastructure.Repositories
 
             string htmlBody = "";
             htmlBody += "<html><tbody>";
-            htmlBody += "<tr>";
-            htmlBody += "<td role='modules-container' style='padding:0px 0px 0px 0px;color:#333333;text-align:left' bgcolor='#FFFFFF' width='100%' align='left'>";
-            htmlBody += "<table class='m_7842241214441174436preheader' role='module' border='0' cellpadding='0' cellspacing='0' width='100%' style='display:none!important;opacity:0;color:transparent;height:0;width:0'></table>";
-            htmlBody += "<table role='module' border='0' cellpadding='0' cellspacing='0' width='100%' style='table-layout:fixed'>";
-            htmlBody += "<tbody><tr>";
-            htmlBody += "<td style='padding:20px 30px 35px 30px;line-height:42px' height='100%' valign='top' bgcolor=''>";
-            htmlBody += "<div style='text-align:center'>";
-            htmlBody += "<h2 style='text-align:center'>Pozdrav, <strong><span style='font-size:20px; color:#01b9ff'>" + body.PoslovnoImeProdavca + "</span>&nbsp; </strong></h2>";
-            htmlBody += "</div></td></tr></tbody></table>";
-            htmlBody += "<table role='module' border='0' cellpadding='0' cellspacing='0' width='100%' style='table-layout:fixed'><tbody><tr>";
-            htmlBody += "<td style='padding:0px 20px 0px 20px' height='100%' valign='top' bgcolor=''>";
-            htmlBody += "<h2 style='text-align:center'>Poslali ste fakturu kupcu: <span style='color:#01b9ff'>" + body.PoslovnoImeKupca;
-            htmlBody += "<span style='color:#626262'>";
-            htmlBody += "<span style='font-size:14px'>";
-            htmlBody += "<span style='font-family:arial,helvetica,sans-serif'></span>";
-            htmlBody += "</span></span></div></td></tr></tbody></table>";
-            htmlBody += "<table role='module' border='0' cellpadding='0' cellspacing='0' width='100%' style='table-layout:fixed'>";
-            htmlBody += "<tbody><tr>";
-            htmlBody += "<td style='padding:0px 20px 0px 20px' height='100%' valign='top' bgcolor=''>";
-            htmlBody += "<div style='text-align:center'>";
-            htmlBody += "<table border='0' cellpadding='0' cellspacing='3'>";
-            htmlBody += "<tbody><tr><td>";
-            htmlBody += "";
-            htmlBody += " </td></tr></tbody></table></div></td></tr></tbody></table>";
-            htmlBody += "<table role='module' border='0' cellpadding='0' cellspacing='0' width='100%' style='table-layout:fixed'>";
-            htmlBody += "<tbody><tr>";
-            htmlBody += "<td height='100%' valign='top'>";
-            htmlBody += "<div style='padding:10px 0px 0px 20px;text-align:center'>";
-            htmlBody += "<div>&nbsp;</div>";
-            htmlBody += "<p style='padding-top: 6pt;padding-left: 11pt;text-indent: 0pt;text-align: center;'><span ='mailto:office@docus.co.rs' class='a' target='_blank'>Create by DOCUS | </span><a href='http://www.docus.co.rs/' class='a' target='_blank'> </a><span>office@docus.co.rs | Telefon +381 32 310050 | </span><a href='http://www.docus.co.rs/' target='_blank'>www.docus.co.rs</a></p>";
-            htmlBody += "</div></td></tr></tbody></table></td></tr></tbody></html>";
+           
 
             return htmlBody;
         }
@@ -682,37 +652,7 @@ namespace eInvoice.Infrastructure.Repositories
         {
             string htmlBody = "";
             htmlBody += "<html><tbody>";
-            htmlBody += "<tr>";
-            htmlBody += "<td role='modules-container' style='padding:0px 0px 0px 0px;color:#333333;text-align:left' bgcolor='#FFFFFF' width='100%' align='left'>";
-            htmlBody += "<table class='m_7842241214441174436preheader' role='module' border='0' cellpadding='0' cellspacing='0' width='100%' style='display:none!important;opacity:0;color:transparent;height:0;width:0'></table>";
-            htmlBody += "<table role='module' border='0' cellpadding='0' cellspacing='0' width='100%' style='table-layout:fixed'>";
-            htmlBody += "<tbody><tr>";
-            htmlBody += "<td style='padding:20px 30px 35px 30px;line-height:42px' height='100%' valign='top' bgcolor=''>";
-            htmlBody += "<div style='text-align:center'>";
-            htmlBody += "<h2 style='text-align:center'>Pozdrav, <strong><span style='font-size:20px; color:#01b9ff'>" + body.PoslovnoImeProdavca + "</span>&nbsp; </strong></h2>";
-            htmlBody += "</div></td></tr></tbody></table>";
-            htmlBody += "<table role='module' border='0' cellpadding='0' cellspacing='0' width='100%' style='table-layout:fixed'><tbody><tr>";
-            htmlBody += "<td style='padding:0px 20px 0px 20px' height='100%' valign='top' bgcolor=''>";
-            htmlBody += "<h2 style='text-align:center'>Kupac: <span style='color:#01b9ff'>" + body.PoslovnoImeKupca + "</span><h2 style='text-align:center'>nema otvoren nalog na portalu E-fakture</h2";
-            htmlBody += "<span style='color:#626262'>";
-            htmlBody += "<span style='font-size:14px'>";
-            htmlBody += "<span style='font-family:arial,helvetica,sans-serif'></span>";
-            htmlBody += "</span></span></div></td></tr></tbody></table>";
-            htmlBody += "<table role='module' border='0' cellpadding='0' cellspacing='0' width='100%' style='table-layout:fixed'>";
-            htmlBody += "<tbody><tr>";
-            htmlBody += "<td style='padding:0px 20px 0px 20px' height='100%' valign='top' bgcolor=''>";
-            htmlBody += "<div style='text-align:center'>";
-            htmlBody += "<table border='0' cellpadding='0' cellspacing='3'>";
-            htmlBody += "<tbody><tr><td>";
-            htmlBody += "";
-            htmlBody += " </td></tr></tbody></table></div></td></tr></tbody></table>";
-            htmlBody += "<table role='module' border='0' cellpadding='0' cellspacing='0' width='100%' style='table-layout:fixed'>";
-            htmlBody += "<tbody><tr>";
-            htmlBody += "<td height='100%' valign='top'>";
-            htmlBody += "<div style='padding:10px 0px 0px 20px;text-align:center'>";
-            htmlBody += "<div>&nbsp;</div>";
-            htmlBody += "<p style='padding-top: 6pt;padding-left: 11pt;text-indent: 0pt;text-align: center;'><span ='mailto:office@docus.co.rs' class='a' target='_blank'>Create by DOCUS | </span><a href='http://www.docus.co.rs/' class='a' target='_blank'> </a><span>office@docus.co.rs | Telefon +381 32 310050 | </span><a href='http://www.docus.co.rs/' target='_blank'>www.docus.co.rs</a></p>";
-            htmlBody += "</div></td></tr></tbody></table></td></tr></tbody></html>";
+          
 
             return htmlBody;
         }
