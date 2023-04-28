@@ -1,0 +1,13 @@
+{
+    "Logging": {
+      "LogLevel": {
+        "Default": "Information",
+        "Microsoft": "Warning",
+        "Microsoft.Hosting.Lifetime": "Information"
+      }
+    },
+    "ServerUrl": "https://demoefaktura.mfin.gov.rs",
+    "LogFilePath": "C:\\Users\\nenad\\source\\repos\\E-fakture\\eInvoice\\default-data\\LogFile.txt",
+    "UblStorage": "C:\\Users\\nenad\\source\\repos\\E-fakture\\eInvoice\\default-data\\",
+    "AllowedHosts": "*"
+  }

@@ -1,0 +1,15 @@
+C:\Users\nenad\source\repos\E-fakture\eInvoice.Infrastructure\bin\Debug\net5.0\eInvoice.Infrastructure.deps.json
+C:\Users\nenad\source\repos\E-fakture\eInvoice.Infrastructure\bin\Debug\net5.0\eInvoice.Infrastructure.dll
+C:\Users\nenad\source\repos\E-fakture\eInvoice.Infrastructure\bin\Debug\net5.0\ref\eInvoice.Infrastructure.dll
+C:\Users\nenad\source\repos\E-fakture\eInvoice.Infrastructure\bin\Debug\net5.0\eInvoice.Infrastructure.pdb
+C:\Users\nenad\source\repos\E-fakture\eInvoice.Infrastructure\bin\Debug\net5.0\eInvoice.Core.dll
+C:\Users\nenad\source\repos\E-fakture\eInvoice.Infrastructure\bin\Debug\net5.0\eInvoice.Core.pdb
+C:\Users\nenad\source\repos\E-fakture\eInvoice.Infrastructure\obj\Debug\net5.0\eInvoice.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\nenad\source\repos\E-fakture\eInvoice.Infrastructure\obj\Debug\net5.0\eInvoice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nenad\source\repos\E-fakture\eInvoice.Infrastructure\obj\Debug\net5.0\eInvoice.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nenad\source\repos\E-fakture\eInvoice.Infrastructure\obj\Debug\net5.0\eInvoice.Infrastructure.AssemblyInfo.cs
+C:\Users\nenad\source\repos\E-fakture\eInvoice.Infrastructure\obj\Debug\net5.0\eInvoice.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nenad\source\repos\E-fakture\eInvoice.Infrastructure\obj\Debug\net5.0\eInvoice.Infrastructure.csproj.CopyComplete
+C:\Users\nenad\source\repos\E-fakture\eInvoice.Infrastructure\obj\Debug\net5.0\eInvoice.Infrastructure.dll
+C:\Users\nenad\source\repos\E-fakture\eInvoice.Infrastructure\obj\Debug\net5.0\ref\eInvoice.Infrastructure.dll
+C:\Users\nenad\source\repos\E-fakture\eInvoice.Infrastructure\obj\Debug\net5.0\eInvoice.Infrastructure.pdb
